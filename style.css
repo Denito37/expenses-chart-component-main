@@ -102,4 +102,7 @@ footer a{
         display: flex;
         padding: 1rem;
     }
+    canvas{
+        max-width: 400px;
+    }
 }
